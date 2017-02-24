@@ -1,0 +1,6 @@
+CarInfoApp
+
+It's quite simple:
+- first panel contains 'car owner' text area and two buttons – 'print' will write owner's name into console and 'clear' button make it blank;
+- second panel gives us some details about car brand, price (might contain 3% excise) and what kind of fuel is needed for it, then it can add all of those informations into 'description' field;
+- third panel is in fact a list and three buttons which are responsible for: adding car with description to the list, printing whole list and removing all elements from it;
